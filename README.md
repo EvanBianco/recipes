@@ -22,7 +22,9 @@
 
 - [Making a striplog from tops.ipynb](http://localhost:8888/notebooks/Making%20a%20striplog%20from%20tops.ipynb): Complete, but needs descriptions
 
-### Recipes To Do
+### Recipes ToDo
+
+- Adding multiple LAS files to a well
 
 - Working with photomicrograph images
 
@@ -34,7 +36,7 @@
 
 - Incorporating multiple striplog and lasfile objects in a well
 
-- Composite plotting
+- Composite plot configurations
 
 - Filtering a petrophysical log using a striplog
 
