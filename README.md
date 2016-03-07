@@ -1,8 +1,6 @@
 # recipes
 Well data recipes
 
-- Adding core photo to striplogs.ipynb : Not complete
-
 - Adding a deviation survey to a well : Complete by could be expanded
 
 - Creating a legend from an image.ipynb : Completed by need to work get working with no gaps
