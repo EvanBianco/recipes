@@ -1,7 +1,7 @@
 # recipes
 Well data recipes
 
-- [Adding a deviation survey to a well] (https://github.com/agile-geoscience/recipes/blob/master/Adding%20a%20deviation%20survey%20to%20a%20well.ipynb) : COMPLETE, but could be expanded
+- [Adding a deviation survey to a well](https://github.com/agile-geoscience/recipes/blob/master/Adding%20a%20deviation%20survey%20to%20a%20well.ipynb) : COMPLETE, but could be expanded
 
 - [Creating a legend from an image](https://github.com/agile-geoscience/recipes/blob/master/Creating%20a%20legend%20from%20an%20image.ipynb): COMPLETE. but need to work get working with no gaps
 
@@ -15,7 +15,7 @@ Well data recipes
 
 - [Making a striplog from one of Peter Giles images.ipynb] (https://github.com/agile-geoscience/recipes/blob/master/Making%20a%20striplog%20from%20one%20of%20Peter%20Giles%20images.ipynb): COMPLETE
 
-- [Making a striplog tops.ipynb]: COMPLETE but needs descriptions
+- [Making a striplog tops.ipynb](http://localhost:8888/notebooks/Making%20a%20striplog%20from%20tops.ipynb): COMPLETE but needs descriptions
 
-- [Manipulating colors within a default legend]: COMPLETE but could expand
+- [Manipulating colors within a default legend](http://localhost:8888/notebooks/Manipulating%20colors%20within%20a%20default%20legend.ipynb): COMPLETE but could expand
 
