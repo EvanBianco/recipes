@@ -24,7 +24,7 @@
 
 - [Handling side wall core data](https://github.com/agile-geoscience/recipes/blob/master/Handling%20sidewall%20core%20data.ipynb): NOT COMPLETE: striplogs need a way to plot point data when order='none'.
 
-- [Filtering a log with a striplog]()
+- [Filtering a log with a striplog](https://github.com/agile-geoscience/recipes/blob/master/Filtering%20a%20log%20with%20a%20striplog.ipynb): COMPLETE.
 
 ### Recipes ToDo
 
