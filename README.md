@@ -24,6 +24,8 @@
 
 - [Handling side wall core data](https://github.com/agile-geoscience/recipes/blob/master/Handling%20sidewall%20core%20data.ipynb): NOT COMPLETE: striplogs need a way to plot point data when order='none'.
 
+- [Filtering a log with a striplog](https://github.com/agile-geoscience/recipes/blob/master/Filtering%20a%20log%20with%20a%20striplog.ipynb): COMPLETE.
+
 ### Recipes ToDo
 
 - Adding multiple LAS files to a well
@@ -32,13 +34,11 @@
 
 - Working with core photograph images
 
-- Working with non-uniformly sampled point data
+- Working with XRF tabular data
 
 - Applying point data to stratigraphic intervals
 
 - Incorporating multiple striplog and lasfile objects in a well
 
 - Composite plot configurations
-
-- Filtering a petrophysical log using a striplog
 
