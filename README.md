@@ -34,7 +34,7 @@
 
 - Working with core photograph images
 
-- Working with non-uniformly sampled point data
+- Working with XRF tabular data
 
 - Applying point data to stratigraphic intervals
 
