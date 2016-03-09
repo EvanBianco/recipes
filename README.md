@@ -26,13 +26,13 @@
 
 - [Filtering a log with a striplog](https://github.com/agile-geoscience/recipes/blob/master/Filtering%20a%20log%20with%20a%20striplog.ipynb): COMPLETE.
 
+- [Working with core photographs](https://github.com/agile-geoscience/recipes/blob/master/Working%20with%20core%20photographs.ipynb): NOT COMPLETE. Cursory proof of concept not yet integrated into Welly or Striplog.
+
 ### Recipes ToDo
 
 - Adding multiple LAS files to a well
 
 - Working with photomicrograph images
-
-- Working with core photograph images
 
 - Working with XRF tabular data
 
