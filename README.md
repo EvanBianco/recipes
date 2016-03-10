@@ -20,7 +20,7 @@
 
 - [Make petrophysical data from a striplog](https://github.com/agile-geoscience/recipes/blob/master/Make%20petrophysical%20logs%20from%20a%20striplog.ipynb): NOT COMPLETE. Add final steps to export to LAS format.
 
-- [Making a striplog from tops.ipynb](http://localhost:8888/notebooks/Making%20a%20striplog%20from%20tops.ipynb): Complete, but could enhance graphical outputs / annotations.
+- [Making a striplog from tops](http://localhost:8888/notebooks/Making%20a%20striplog%20from%20tops.ipynb): Complete, but could enhance graphical outputs / annotations.
 
 - [Handling side wall core data](https://github.com/agile-geoscience/recipes/blob/master/Handling%20sidewall%20core%20data.ipynb): Complete.
 
