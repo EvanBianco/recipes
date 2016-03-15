@@ -17,8 +17,7 @@
 
 - [Making a striplog from one of Peter Giles images] (https://github.com/agile-geoscience/recipes/blob/master/Making%20a%20striplog%20from%20one%20of%20Peter%20Giles%20images.ipynb): Complete
 
-
-- [Make petrophysical data from a striplog](https://github.com/agile-geoscience/recipes/blob/master/Make%20petrophysical%20logs%20from%20a%20striplog.ipynb): NOT COMPLETE. Add final steps to export to LAS format.
+- [Make LAS file from a striplog](https://github.com/agile-geoscience/recipes/blob/master/Make%20LAS%20file%20from%20a%20striplog.ipynb): Complete.
 
 - [Making a striplog from tops](http://localhost:8888/notebooks/Making%20a%20striplog%20from%20tops.ipynb): Complete, but could enhance graphical outputs / annotations.
 
