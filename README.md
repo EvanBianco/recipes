@@ -18,7 +18,6 @@
 
 - [Crop striplogs using tops](https://github.com/agile-geoscience/recipes/blob/master/Crop%20striplogs%20using%20tops.ipynb): Complete.
 
-
 - [Making a striplog from one of Peter Giles images] (https://github.com/agile-geoscience/recipes/blob/master/Making%20a%20striplog%20from%20one%20of%20Peter%20Giles%20images.ipynb): Complete
 
 - [Make LAS file from a striplog](https://github.com/agile-geoscience/recipes/blob/master/Make%20LAS%20file%20from%20a%20striplog.ipynb): Complete.
@@ -28,6 +27,8 @@
 - [Handling side wall core data](https://github.com/agile-geoscience/recipes/blob/master/Handling%20sidewall%20core%20data.ipynb): Complete.
 
 - [Filtering a log with a striplog](https://github.com/agile-geoscience/recipes/blob/master/Filtering%20a%20log%20with%20a%20striplog.ipynb): Complete.
+
+- [Filtering lithology by formation](https://github.com/agile-geoscience/recipes/blob/master/Filtering%lithology%20by%20formation.ipynb): Complete. But could be extended with more regex examples and more complicated querying.
 
 - [Working with core photographs](https://github.com/agile-geoscience/recipes/blob/master/Working%20with%20core%20photographs.ipynb): NOT COMPLETE. Cursory proof of concept not yet integrated into Welly or Striplog.
 
