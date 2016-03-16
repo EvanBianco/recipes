@@ -4,6 +4,8 @@
 
 - [Composite plot of logs striplogs and point data]((https://github.com/agile-geoscience/recipes/blob/master/Composite%20plot%20of%20logs%20striplogs%20and%20point%20data.ipynb) : Complete.
 
+- [Applying point data to stratigraphic intervals]((https://github.com/agile-geoscience/recipes/blob/master/Applying%20point%20data%20to%20stratigraphic%20intervals.ipynb) : NOT COMPLETE. Need to get binary relationships working with point data.
+
 ### Legend recipes
 - [Creating a legend from an image](https://github.com/agile-geoscience/recipes/blob/master/Creating%20a%20legend%20from%20an%20image.ipynb): Complete.
 
@@ -36,8 +38,6 @@
 - Working with photomicrograph images
 
 - Working with XRF tabular data
-
-- Applying point data to stratigraphic intervals
 
 - Incorporating multiple striplog and lasfile objects in a well
 
