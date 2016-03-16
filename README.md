@@ -2,6 +2,8 @@
 
 - [Adding a deviation survey to a well](https://github.com/agile-geoscience/recipes/blob/master/Adding%20a%20deviation%20survey%20to%20a%20well.ipynb) : Complete, but could be expanded. Needs more description.
 
+- [Composite plot of logs striplogs and point data]((https://github.com/agile-geoscience/recipes/blob/master/Composite%20plot%20of%20logs%20striplogs%20and%20point%20data.ipynb) : Complete.
+
 ### Legend recipes
 - [Creating a legend from an image](https://github.com/agile-geoscience/recipes/blob/master/Creating%20a%20legend%20from%20an%20image.ipynb): Complete.
 
