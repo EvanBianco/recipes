@@ -40,7 +40,5 @@
 
 - Working with XRF tabular data
 
-- Incorporating multiple striplog and lasfile objects in a well
-
 - Composite plot configurations
 
