@@ -16,23 +16,23 @@ CNTY.                        None : COUNTY
 STAT.                        None : STATE
 CTRY.                          CA : COUNTRY
 SRVC.                             : SERVICE COMPANY
-DATE.  2016-03-22 12:18:28.260827 : DATE
+DATE.  2016-03-29 10:04:14.284468 : DATE
 UWI .     Long = 63* 45'24.460  W : UNIQUE WELL ID
 API .                             : API NUMBER
-LIC .                       P-129 : 
-LONG.                        None : 
+LATI.                        None : 
 GDAT.                        None : 
 SECT.                 45.20 Deg N : 
 TOWN.                 63.75 Deg W : 
-LATI.                        None : 
+LONG.                        None : 
 RANG.                      PD 176 : 
+LIC .                       P-129 : 
 ~Curves ----------------------------------------------------
 DEPT.  : 
 ~Params ----------------------------------------------------
-EKB.   94.8 : 
 TDD. 1935.0 : 
-TDL. 1935.0 : 
+EKB.   94.8 : 
 EGL.   90.3 : 
+TDL. 1935.0 : 
 ~Other -----------------------------------------------------
 ~ASCII -----------------------------------------------------
      1.0668
