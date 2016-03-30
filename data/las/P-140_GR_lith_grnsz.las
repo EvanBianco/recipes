@@ -16,26 +16,26 @@ CNTY.                        None : COUNTY
 STAT.                        None : STATE
 CTRY.                          CA : COUNTRY
 SRVC.                             : SERVICE COMPANY
-DATE.  2016-03-29 13:07:12.908235 : DATE
+DATE.  2016-03-30 15:06:37.489201 : DATE
 UWI .     Long = 63* 45'24.460  W : UNIQUE WELL ID
 API .                             : API NUMBER
+LIC .                       P-129 : 
 RANG.                      PD 176 : 
-SECT.                 45.20 Deg N : 
+GDAT.                        None : 
 LONG.                        None : 
 LATI.                        None : 
-GDAT.                        None : 
+SECT.                 45.20 Deg N : 
 TOWN.                 63.75 Deg W : 
-LIC .                       P-129 : 
 ~Curves ----------------------------------------------------
 DEPT.      : 
 LITH.None  : Peter Giles lithology
 GRSZ.None  : Peter Giles grainsize
 GR  .gAPI  : Gamma-Ray
 ~Params ----------------------------------------------------
-EKB.   94.8 : 
-TDD. 1935.0 : 
-TDL. 1935.0 : 
 EGL.   90.3 : 
+TDL. 1935.0 : 
+TDD. 1935.0 : 
+EKB.   94.8 : 
 ~Other -----------------------------------------------------
 ~ASCII -----------------------------------------------------
      1.0668   -9999.25   -9999.25     46.699
