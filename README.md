@@ -1,5 +1,12 @@
 ### Well data recipes
 
+
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb)
+
+Access this Binder by clicking the blue badge above or at the following URL:
+
+http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb
+
 - [Adding a deviation survey to a well](https://github.com/agile-geoscience/recipes/blob/master/Adding%20a%20deviation%20survey%20to%20a%20well.ipynb) : Complete, but could be expanded. Needs more description.
 
 - [Vshale striplog from log](https://github.com/agile-geoscience/recipes/blob/master/Vsh striplog from log.ipynb) : Complete.
